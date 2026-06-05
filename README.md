@@ -81,12 +81,7 @@ telecom-customer-churn-analysis/
 └── dataset/
 ```
 
-## Dashboard Preview
 
-Add your dashboard screenshot below:
-
-```markdown
-![Dashboard](dashboard.png)
 ```
 
 ## Author
